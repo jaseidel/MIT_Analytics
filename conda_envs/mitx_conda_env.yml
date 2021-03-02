@@ -1,0 +1,12 @@
+name: mitx
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - scipy
+  - pandas
+  - matplotlib
+  - notebook
+  - sympy
+
+#${CONDA_PATH}/bin/conda env create --file /home/${USERNAME}/envs/${FILENAME}_conda_env.yml} 
