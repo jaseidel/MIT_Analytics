@@ -8,6 +8,7 @@ dependencies:
   - tensorflow-gpu
   - scikit-learn
   - scipy
+  - seaborn
   - statsmodels
   - sympy
 
